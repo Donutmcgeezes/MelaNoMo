@@ -5,4 +5,6 @@ A screening device for detecting cancerous moles
 
 ## Microfluidics
 
+<img width="1280" height="720" alt="Device Methodology" src="https://github.com/user-attachments/assets/0f8704fc-05d3-4a4b-b7fd-80753924c753" />
+
 <img width="1280" height="720" alt="Microfluidic Channels Bipartite" src="https://github.com/user-attachments/assets/0f5b169c-f189-4285-b6af-652dd7090512" />
