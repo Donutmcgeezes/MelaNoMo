@@ -1,5 +1,5 @@
 # MelaNoMo
-A screening device for detecting cancerous moles
+A screening device for Melanoma detection
 
 ![POSTER SUBMITTED](https://github.com/user-attachments/assets/cf3315ec-5ef4-4eee-b076-c8afde5b6fe5)
 
