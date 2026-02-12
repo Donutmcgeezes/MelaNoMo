@@ -12,5 +12,6 @@ A screening device for Melanoma detection
 ## Genetic Circuit Design
 <img width="821" height="500" alt="Predicted Secondary Structure ECFSigma11" src="https://github.com/user-attachments/assets/ad4abbf5-d85f-4f5d-8871-ea798f1abb5b" />
 
-![Slide1](https://github.com/user-attachments/assets/1af96e75-1599-4fc9-8414-3d38d3af131c)
+<img width="1500" height="2667" alt="0a960f7c-1" src="https://github.com/user-attachments/assets/51a77a63-78b8-453f-a262-137db65ef5b0" />
+
 
